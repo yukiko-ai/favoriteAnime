@@ -4,10 +4,10 @@ from requests_oauthlib import OAuth1Session
 import json
 
 oath_key_dict = {
-    "consumer_key": "kyt8G3WfxqqLF9V4MdtjH5eL8",
-    "consumer_secret": "KZbyUIXWrV2k7pXQHwincxfFaFjapq7UTcmw7kbEbRt2GSsMBR",
-    "access_token": "719037806815760384-sW3El9Esl5ZOVCq6HZeIJ2IIJekITDk",
-    "access_token_secret": "41j9mTREQ7Bb048ohxxPFfIer3pLxi8S1owUD5Z8RE9ir"
+    "consumer_key": " ",
+    "consumer_secret": " ",
+    "access_token": " ",
+    "access_token_secret": " "
 }
 
 def create_oath_session(oath_key_dict):
